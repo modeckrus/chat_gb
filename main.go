@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(){
-	fmt.Println("Merge Conflict")
+func main() {
+	fmt.Printf("Merge Conflict")
 }
